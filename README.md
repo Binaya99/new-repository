@@ -3,7 +3,7 @@
 
 addList = [] 
 
-# dictionary holding integer:corresponding word pairs
+
 numbersDict = { 
 0:"zero",
 1:"one",
@@ -35,7 +35,6 @@ numbersDict = {
 90:"ninety"
 }
 
-### There has to be an easier way to do all this below ###
 
 def numberLetters(num):
 
