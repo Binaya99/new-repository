@@ -1,7 +1,6 @@
 # new-repository # number letter counts
 
 
-# the final list that holds the string lengths
 addList = [] 
 
 # dictionary holding integer:corresponding word pairs
